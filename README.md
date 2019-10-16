@@ -1,5 +1,5 @@
 # Chat app
-> A Realtime chat app using Nodejs and websocket.io
+> A Realtime chat app using Nodejs and socket.io
 
 ![image](chat.png)
 
