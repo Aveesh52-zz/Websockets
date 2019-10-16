@@ -20,7 +20,7 @@ npm run build
 
 ### Author
 
-Brad Traversy
+Aveesh shetty
 [Aveesh Shetty]
 
 ### Version
